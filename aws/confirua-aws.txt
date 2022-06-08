@@ -1,0 +1,17 @@
+https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config
+
+https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config
+
+https://learn.hashicorp.com/tutorials/terraform/aws-build#troubleshooting
+
+https://us-east-1.console.aws.amazon.com/ec2/v2/home?region=us-east-1#AMICatalog:
+
+https://registry.terraform.io/providers/hashicorp/aws/2.43.0/docs
+
+https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1&skipRegion=true#/security_credentials
+
+https://groups.google.com/g/terraform-tool/c/JwWQ8jjLQKc?pli=1
+#Lista de ec2 e suas ami
+https://cloud-images.ubuntu.com/locator/ec2/
+
+
